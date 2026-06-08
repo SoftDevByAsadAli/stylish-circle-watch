@@ -15,8 +15,8 @@ A modern, stylish, and responsive circle watch application built with **HTML, CS
 - JavaScript (Date Object, Intervals)
 
 ## 🚀 How to Run
-1. Clone this repository.
-2. Open `index.html` in your favorite web browser.
+1.[🔗 Click here to view the Live Website] 
+2. https://softdevbyasadali.github.io/stylish-circle-watch/
 
 ## 👨‍💻 Author
 **Asad Ali**
